@@ -7,7 +7,7 @@ These datasets contain data quality issues.
    - Description: Famous dataset with passenger information from the Titanic.
 
 2. **House Prices Dataset**
-   - Link: https://www.kaggle.com/datasets/c/house-prices-advanced-regression-techniques
+   - Link: https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques
    - Description: Residential home data from Ames, Iowa.
 
 3. **Melbourne Housing Market**
