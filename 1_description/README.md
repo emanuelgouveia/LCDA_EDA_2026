@@ -9,3 +9,4 @@
 5. Are there duplicate observations in the data?
 6. Select a particularly interesting group of observations by applying a filter (e.g., regular customers)
 7. From the selected observations, display the highest- or lowest-ranking ones according to some variable of interest (e.g., customers who spent the least money).
+8. Compare the full dataset to the selected observation using one or two summary statistics.
