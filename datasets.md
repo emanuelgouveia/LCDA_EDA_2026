@@ -1,32 +1,26 @@
-# Public Datasets for Exploratory Data Analysis
-
-This document contains links to various public datasets suitable for learning exploratory data analysis techniques.
-
----
-
 ## 1. Non-Clean Datasets (with missing values, duplicates, NaNs)
 
-These datasets contain data quality issues such as missing values, duplicates, and NaNs that require preprocessing.
+These datasets contain data quality issues.
 
 1. **Titanic Dataset**
    - Link: https://www.kaggle.com/datasets/brendan45774/test-file
-   - Description: Famous dataset with passenger information from the Titanic. Contains missing values in Age, Cabin, and Embarked columns.
-
+   - Description: Famous dataset with passenger information from the Titanic.
+   - 
 2. **House Prices Dataset**
    - Link: https://www.kaggle.com/datasets/c/house-prices-advanced-regression-techniques
-   - Description: Residential home data from Ames, Iowa. Contains numerous missing values across multiple features.
+   - Description: Residential home data from Ames, Iowa.
 
 3. **Melbourne Housing Market**
    - Link: https://www.kaggle.com/datasets/anthonypino/melbourne-housing-market
-   - Description: Housing data with missing values and potential duplicates that need cleaning.
+   - Description: Housing data.
 
 4. **WHO Life Expectancy**
    - Link: https://www.kaggle.com/datasets/kumarajarshi/life-expectancy-who
-   - Description: Health and economic data with many missing values for various countries.
+   - Description: Health and economic data.
 
 5. **Air Quality UCI**
    - Link: https://archive.ics.uci.edu/dataset/360/air+quality
-   - Description: Air quality sensor data with -200 values representing missing data and sensor failures.
+   - Description: Air quality sensor data.
 
 ---
 
@@ -36,23 +30,18 @@ These datasets contain at least 2 tables that can be joined using common keys.
 
 1. **Northwind Database**
    - Link: https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/northwind-pubs
-   - Description: Classic database with multiple tables (Orders, Customers, Products, etc.) that can be joined.
 
 2. **Sakila DVD Rental Database**
    - Link: https://dev.mysql.com/doc/sakila/en/
-   - Description: Sample database with 16 tables including Film, Actor, Customer, Rental that can be joined.
 
 3. **AdventureWorks Dataset**
    - Link: https://github.com/Microsoft/sql-server-samples/releases/tag/adventureworks
-   - Description: Comprehensive database with multiple related tables for sales, products, and customers.
 
 4. **IMDb Non-Commercial Datasets**
    - Link: https://developer.imdb.com/non-commercial-datasets/
-   - Description: Multiple tables (movies, ratings, crew, principals) that can be joined via movie IDs.
 
 5. **Stack Overflow Data**
    - Link: https://www.kaggle.com/datasets/stackoverflow/stackoverflow
-   - Description: Multiple tables including Users, Posts, Comments, Votes that can be joined.
 
 ---
 
@@ -125,22 +114,3 @@ These datasets contain temporal data suitable for time series analysis.
 5. **Air Passengers Dataset**
    - Link: https://www.kaggle.com/datasets/rakannimer/air-passengers
    - Description: Classic time series dataset of monthly airline passenger numbers (1949-1960).
-
----
-
-## Additional Resources
-
-- **UCI Machine Learning Repository**: https://archive.ics.uci.edu/
-- **Kaggle Datasets**: https://www.kaggle.com/datasets
-- **Google Dataset Search**: https://datasetsearch.research.google.com/
-- **Data.gov**: https://data.gov/
-- **European Data Portal**: https://data.europa.eu/
-
----
-
-## Notes
-
-- Always check the license and terms of use before using any dataset
-- Some links may require registration (e.g., Kaggle)
-- Datasets are chosen for their educational value and variety of data characteristics
-- Consider starting with smaller datasets before moving to larger ones
