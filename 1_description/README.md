@@ -2,8 +2,10 @@
 
 ## Resultados esperados
 
-1. Report the dataset volume (number of rows and columns)
-2. Identify and document the types of all variables in the dataset
-3. Determine the measurement scale for each variable (nominal, ordinal, interval, ratio)
-4. Count and report missing values per variable
-5. Report the count of unique values for each variable
+1. How many observations does the dataset have? And how many variables? 
+2. Identify and document the types and of all variables in the dataset. Are they discrete or continuous? If discrete, is the scale nominal or ordinal? If continuous, are ratios between values meaningful?
+3. For discrete variables, obtain lists and counts of their unique values.
+4. How many missing values are there in the data? How are they distributed across observations and variables?
+5. Are there duplicate observations in the data?
+6. Select a particularly interesting group of observations by applying a filter (e.g., regular customers)
+7. From the selected observations, display the highest- or lowest-ranking ones according to some variable of interest (e.g., customers who spent the least money).
