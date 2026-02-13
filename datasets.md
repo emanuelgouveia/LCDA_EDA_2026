@@ -24,24 +24,13 @@ These datasets contain data quality issues.
 
 ---
 
-## 2. Datasets with Multiple Tables for Joining
+## 2. Dataset with Multiple Tables for Joining
 
 These datasets contain at least 2 tables that can be joined using common keys.
 
-1. **Northwind Database**
-   - Link: https://github.com/microsoft/sql-server-samples/tree/master/samples/databases/northwind-pubs
-
-2. **Sakila DVD Rental Database**
-   - Link: https://dev.mysql.com/doc/sakila/en/
-
-3. **AdventureWorks Dataset**
-   - Link: https://github.com/Microsoft/sql-server-samples/releases/tag/adventureworks
-
-4. **IMDb Non-Commercial Datasets**
-   - Link: https://developer.imdb.com/non-commercial-datasets/
-
-5. **Stack Overflow Data**
-   - Link: https://www.kaggle.com/datasets/stackoverflow/stackoverflow
+1. **Brazilian E-Commerce Public Dataset by Olist**
+   - Link: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+   - Description: E-commerce dataset with separate tables for customers, items, products, orders, etc...
 
 ---
 
