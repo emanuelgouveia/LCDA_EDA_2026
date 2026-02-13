@@ -26,8 +26,6 @@ These datasets contain data quality issues.
 
 ## 2. Dataset with Multiple Tables for Joining
 
-These datasets contain at least 2 tables that can be joined using common keys.
-
 1. **Brazilian E-Commerce Public Dataset by Olist**
    - Link: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
    - Description: E-commerce dataset with separate tables for customers, items, products, orders, etc...
