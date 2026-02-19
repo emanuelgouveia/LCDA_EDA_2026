@@ -24,11 +24,19 @@ These datasets contain data quality issues.
 
 ---
 
-## 2. Dataset with Multiple Tables for Joining
+## 2. Datasets with Multiple Tables for Joining
 
 1. **Brazilian E-Commerce Public Dataset by Olist**
    - Link: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
    - Description: E-commerce dataset with separate tables for customers, items, products, orders, etc...
+  
+2. **Formula 1 World Championship (1950 - 2024)**
+   - Link: https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020
+   - Description: Information on Formula 1 races, drivers, constructors, qualifying, circuits, lap times, pit stops, championships from 1950 till the latest 2024 season.
+
+3. **Financial Transactions Dataset: Analytics**
+   - Link: https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets
+   - Description: Transaction records, customer information, and card data from a banking institution, spanning across the 2010s decade. The transactions_data.csv file is large (> 1GB), consider using only users_data.csv and cards_data.csv.
 
 ---
 
