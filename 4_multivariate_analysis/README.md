@@ -1,6 +1,4 @@
-# 4. Análise Multivariada
-
-## Resultados esperados
+# 4. Multivariate Analysis
 
 1. Make informative comparisons between different groups in the data
 2. Aggregate data appropriately to summarize information across groups

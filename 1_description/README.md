@@ -1,6 +1,4 @@
-# 1. Descrição de dados
-
-## Resultados esperados
+# 1. Data Description
 
 1. How many observations does the dataset have? And how many variables? 
 2. Identify and document the types of all variables in the dataset. Are they discrete or continuous? If discrete, is the scale nominal or ordinal? If continuous, are ratios between values meaningful?

@@ -1,6 +1,4 @@
-# 3. Análise Univariada
-
-## Resultados esperados
+# 3. Univariate Analysis
 
 1. Calculate and report absolute and relative frequencies for categorical variables
 2. Create appropriate visualizations to show the distribution of categorical variables
