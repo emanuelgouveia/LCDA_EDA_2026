@@ -68,21 +68,9 @@ These datasets contain multiple variables with different types (numeric, categor
    - Link: https://archive.ics.uci.edu/dataset/45/heart+disease
    - Description: Medical data with continuous, categorical, and binary variables.
 
-7. **Mushroom Classification**
-   - Link: https://archive.ics.uci.edu/dataset/73/mushroom
-   - Description: All categorical features describing mushroom characteristics.
-
-8. **Credit Card Default**
+7. **Credit Card Default**
    - Link: https://archive.ics.uci.edu/dataset/350/default+of+credit+card+clients
    - Description: Mixed numeric (credit limits, payments) and categorical (gender, education) features.
-
-9. **Seattle Pet Licenses**
-   - Link: https://www.kaggle.com/datasets/aaronschlegel/seattle-pet-licenses
-   - Description: Pet registration data with mixed categorical and date variables.
-
-10. **Employee Attrition Dataset**
-    - Link: https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset
-    - Description: HR data with numeric (age, salary) and categorical (department, role) variables.
 
 ---
 
