@@ -6,7 +6,7 @@
 4. Calculate and report descriptive statistics for numeric variables:
    - Measures of central tendency
    - Measures of dispersion
-   - Measures of symmetry
+   - Measure of asymmetry
 5. Is there any numeric variable that could be transformed logarithmically for better visualization? If that is the case, apply the transformation. Otherwise, pick a numerical variable and standardize it, i.e., transform it linearly such that its mean becomes 0 and its standard deviation becomes 1.
 6. Pick a continuous (or discrete with many possible values) variable to turn into categorical, by binning. Add the new variable as a new series to the dataframe.
 7. Encode one nominal and one ordinal categorical variable appropriately. Add the encoded variables as new series to the dataframe.
