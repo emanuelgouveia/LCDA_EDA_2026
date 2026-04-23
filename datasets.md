@@ -83,8 +83,8 @@ These datasets contain temporal data suitable for time series analysis.
    - Description: Daily weather measurements over multiple years.
 
 2. **Stock Market Data (Yahoo Finance)**
-   - Link: https://finance.yahoo.com/
-   - Description: Historical stock prices with dates (accessible via yfinance Python library).
+   - Link: https://www.kaggle.com/datasets/arashnic/time-series-forecasting-with-yahoo-stock-price
+   - Description: Historical prices of Yahoo stock with dates.
 
 3. **Electricity Consumption**
    - Link: https://archive.ics.uci.edu/dataset/321/electricityloaddiagrams20112014
