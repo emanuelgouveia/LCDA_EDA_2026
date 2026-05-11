@@ -107,5 +107,5 @@ These datasets contain temporal data suitable for time series analysis.
    - Description: Netflix movie ratings per user.
 
 2. **Groceries dataset**
-  - Link: https://www.kaggle.com/datasets/heeraldedhia/groceries-dataset/data
-  - Description: Baskets of groceries, with 167 product categories. 
+   - Link: https://www.kaggle.com/datasets/heeraldedhia/groceries-dataset/data
+   - Description: Baskets of groceries, with 167 product categories. 

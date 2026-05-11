@@ -1,5 +1,4 @@
-# 7. Data Mining
+# 7. Rule Mining
 
-1. Discover and interpret association rules in transactional data
-2. Apply Principal Component Analysis (PCA) to reduce dimensionality and interpret results
-3. Perform clustering analysis to identify natural groupings in data and characterize the clusters
+1. Pick a dataset from the following: Adult Income, Student Performance or any from the "Association Rule Mining" section. 
+2. Find association rules in the dataset.
