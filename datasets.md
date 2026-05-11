@@ -82,7 +82,7 @@ These datasets contain temporal data suitable for time series analysis.
    - Link: https://www.kaggle.com/datasets/sumanthvrao/daily-climate-time-series-data
    - Description: Daily weather measurements over multiple years.
 
-2. **Stock Market Data (Yahoo Finance)**
+2. **Yahoo Stock)**
    - Link: https://www.kaggle.com/datasets/arashnic/time-series-forecasting-with-yahoo-stock-price
    - Description: Historical prices of Yahoo stock with dates.
 
@@ -97,3 +97,15 @@ These datasets contain temporal data suitable for time series analysis.
 5. **Air Passengers Dataset**
    - Link: https://www.kaggle.com/datasets/rakannimer/air-passengers
    - Description: Classic time series dataset of monthly airline passenger numbers (1949-1960).
+
+---
+
+## 5. Association Rule Mining Datasets
+
+1. **Netflix Movie Rating Dataset**
+   - Link: https://www.kaggle.com/datasets/rishitjavia/netflix-movie-rating-dataset/data
+   - Description: Netflix movie ratings per user.
+
+2. **Groceries dataset**
+  - Link: https://www.kaggle.com/datasets/heeraldedhia/groceries-dataset/data
+  - Description: Baskets of groceries, with 167 product categories. 
